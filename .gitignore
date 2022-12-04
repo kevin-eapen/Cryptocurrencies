@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# folder for items not to be tracked
+not_tracked/*
+
 # Distribution / packaging
 .Python
 build/
